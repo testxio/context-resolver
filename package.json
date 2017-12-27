@@ -4,6 +4,7 @@
   "description": "The internal context resolver of TestX",
   "main": "index.js",
   "scripts": {
+    "prepublish": "npm test",
     "test": "node test.js"
   },
   "keywords": ["testx", "context"],
