@@ -1,0 +1,15 @@
+{
+  "name": "context-resolver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Gantcho Kojuharov <gantcho@greyarch.net> (http://greyarch.net)",
+  "license": "ISC",
+  "dependencies": {
+    "@testx/eval": "^1.0.0"
+  }
+}
